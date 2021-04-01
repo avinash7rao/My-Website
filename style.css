@@ -1,4 +1,3 @@
-
 /* -------  General Styles ------- */
 
 body {
@@ -153,7 +152,7 @@ footer p {
 
 
 main img {
-  width: 100%;
+  width: 70%;
 }
 
 img.image-enhanced {
@@ -173,8 +172,6 @@ img.image-enhanced {
 .item-double {
   flex: 2;
 }
-
-
 
 /* ---  (Desktop) Groups & Items --- */
 
